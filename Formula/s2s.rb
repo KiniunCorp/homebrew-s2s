@@ -15,17 +15,17 @@
 class S2s < Formula
   desc "Unified agentic SDLC orchestrator with engineering execution runtime"
   homepage "https://github.com/KiniunCorp/spec-to-ship"
-  version "0.2.56"
+  version "0.2.56-1"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/KiniunCorp/spec-to-ship/releases/download/v0.2.56/s2s-0.2.56-macos-arm64.tar.gz"
-      sha256 "86b9bc244239ebde3df135e840ae7ca0f7daae36a17c0bea2a67e16c2058d623"
+      url "https://github.com/KiniunCorp/spec-to-ship/releases/download/v0.2.56-1/s2s-0.2.56-1-macos-arm64.tar.gz"
+      sha256 "fa7559a35f038fb259c60c60f64e24ab9b3e32ff114eba14a91257e38ac24cee"
     end
     on_intel do
-      url "https://github.com/KiniunCorp/spec-to-ship/releases/download/v0.2.56/s2s-0.2.56-macos-x64.tar.gz"
-      sha256 "5534c1a93c5b8b3af3e6edb001fc659492811b69ac43acc36b4aa552f62d1042"
+      url "https://github.com/KiniunCorp/spec-to-ship/releases/download/v0.2.56-1/s2s-0.2.56-1-macos-x64.tar.gz"
+      sha256 "091975756743d9452df37f5f9c6a701be694370b62e07e07cd1d29fd6aab361b"
     end
   end
 
