@@ -21,11 +21,11 @@ class S2s < Formula
   on_macos do
     on_arm do
       url "https://github.com/KiniunCorp/spec-to-ship/releases/download/v0.2.56/s2s-0.2.56-macos-arm64.tar.gz"
-      sha256 "86b9bc244239ebde3df135e840ae7ca0f7daae36a17c0bea2a67e16c2058d623"
+      sha256 "4492cc6ac96e1d4106cca3333bc8900d8f800bb8c861a3ac81d41dd9fc2b1442"
     end
     on_intel do
       url "https://github.com/KiniunCorp/spec-to-ship/releases/download/v0.2.56/s2s-0.2.56-macos-x64.tar.gz"
-      sha256 "5534c1a93c5b8b3af3e6edb001fc659492811b69ac43acc36b4aa552f62d1042"
+      sha256 "605fc8cb712adeeb35f02afb44f200a71c3bce251d767c66d3b52953f564faaf"
     end
   end
 
